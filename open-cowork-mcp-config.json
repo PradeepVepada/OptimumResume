@@ -1,0 +1,16 @@
+{
+  "mcp_servers": {
+    "resume-matcher": {
+      "command": "node",
+      "args": ["C:\\Users\\vprad\\Den\\Jobs\\resume_make\\resume-matcher-mcp\\server.js"],
+      "env": {
+        "RESUME_MATCHER_API": "http://localhost:8000/api/v1",
+        "RESUME_OUTPUT_DIR": "C:\\Users\\vprad\\Den\\Jobs\\resume_make\\resume-matcher-mcp\\generated-resumes"
+      },
+      "transport": "stdio",
+      "timeout": 30,
+      "enabled": true,
+      "capabilities": ["health_check", "upload_resume", "list_resumes", "get_resume", "upload_job_description", "tailor_resume", "download_resume_pdf", "configure_llm"]
+    }
+  }
+}
