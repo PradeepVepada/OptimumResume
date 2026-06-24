@@ -7,7 +7,7 @@ An intelligent resume optimization system that combines AI-powered resume tailor
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 OptimumResume consists of three integrated components:
 
@@ -17,26 +17,26 @@ OptimumResume consists of three integrated components:
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Resume Features
-- 📄 **Resume Upload**: Support for PDF and DOCX formats
-- 🎯 **Job Description Analysis**: Input job descriptions for tailoring
-- 🤖 **AI-Powered Optimization**: Generate resume versions optimized for specific roles
-- 📊 **Resume Scoring**: Match percentage and keyword analysis
-- 📋 **Cover Letter Generation**: Auto-generate cover letters based on job descriptions
-- 🎨 **Multiple Templates**: Professional, modern, and custom PDF templates
-- 🌍 **Multi-Language Support**: English, Spanish, Chinese, Japanese, Portuguese
+-  **Resume Upload**: Support for PDF and DOCX formats
+-  **Job Description Analysis**: Input job descriptions for tailoring
+-  **AI-Powered Optimization**: Generate resume versions optimized for specific roles
+-  **Resume Scoring**: Match percentage and keyword analysis
+-  **Cover Letter Generation**: Auto-generate cover letters based on job descriptions
+-  **Multiple Templates**: Professional, modern, and custom PDF templates
+-  **Multi-Language Support**: English, Spanish, Chinese, Japanese, Portuguese
 
 ### MCP Integration
-- 🔗 **Open Cowork Compatible**: Direct AI agent integration
-- ⚡ **Real-time Configuration**: Configure LLM providers on-the-fly
-- 🔐 **Secure API**: Stdio transport with error handling
-- 📦 **Modular Architecture**: Independent MCP server
+-  **Open Cowork Compatible**: Direct AI agent integration
+-  **Real-time Configuration**: Configure LLM providers on-the-fly
+-  **Secure API**: Stdio transport with error handling
+-  **Modular Architecture**: Independent MCP server
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before installation, ensure you have:
 
@@ -56,7 +56,7 @@ Before installation, ensure you have:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone Repository
 
@@ -180,7 +180,7 @@ The MCP server will be started later when configured in Open Cowork.
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 ### Backend Environment Variables
 
@@ -205,7 +205,7 @@ The MCP server will be started later when configured in Open Cowork.
 
 ---
 
-## 🌐 Accessing the Application
+##  Accessing the Application
 
 Once both services are running:
 
